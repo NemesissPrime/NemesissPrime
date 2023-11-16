@@ -1,4 +1,4 @@
-#Tech Stack:
+# Tech Stack:
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=black&labelColor=0dff00)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=000&labelColor=0dff00)
